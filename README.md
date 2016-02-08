@@ -6,15 +6,14 @@ Publication Idea:
 Audience: 
 	It would be anyone interested in knowing what is important about each primary and what the results will have on the overall race. Voters in each state can learn about their primary, make them better informed, and even just remind them when their primary is. 
 
-	
-	Similar Publications: 
+Similar Publications: 
 	Real Clear Politics has a breakdown of all the major polls for each primary and calculates an average poll. This is good to eliminate outlier polls and identify trends. RCP has a list of stories that cover the Democratic primary and Republican primary. Our publication would break down the race by state, not the political party issues. RCP has the polling down but no explanation for what makes a good poll or bad. It is easy to understand and we can have an interactive chart that highlights the important factors for each section of the polling data breakdown. 
 
 Part of Politico’s website has a section for the next primary with stories. We would have basic information about each of the primaries, not just the one up next. It would not be as in-depth as Politico but they really only focus on the first few primaries that have a lot of power in the primaries. But there are 40 plus other states with primaries and the coverage of those primaries is sparse. 
 
 Vox.com has a lot of interactive map or chart stories about various policy and political issues that surround the primaries. But Vox can be extremely dense or “wonky.” Our publication would want to have stories that break down these complex issues so that anyone can come away understand the primaries. 
 	
-	Some stories that could be put on the site: An interactive map that would tell a voter where their polling place is. Is there early voting in your state so you don’t have to scramble the day of to find time to vote. 
+Some stories that could be put on the site: An interactive map that would tell a voter where their polling place is. Is there early voting in your state so you don’t have to scramble the day of to find time to vote. 
 
 A list of voter services: Do you qualify to be an absentee because of illness, psychical disability, or you just won’t be in your district on that day? 
 
